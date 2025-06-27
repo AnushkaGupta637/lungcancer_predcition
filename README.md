@@ -1,1 +1,1 @@
-# lungcancer_predcition
+# lungcancer_prediction
